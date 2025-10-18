@@ -1,2 +1,2 @@
-# AMS595 - Bridget Donohue
-This repository contains MATLAB projects for AMS 595.
+# AMS595 Project 3
+This repository contains solutions to Python Assignment 1 for AMS 595.
